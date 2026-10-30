@@ -1,19 +1,25 @@
-# Heading & Tooling consulting website
+# Heading & Tooling marketing website
 
-A static concept website. Business name and contact details are provisional.
-The inquiry form only downloads a text file; it does not send messages.
+Static marketing website for heading machine support, tooling review, and production analytics.
 
-## Preview locally
+Live site: https://andmedina.github.io/heading-tooling-consulting/
 
-Open `index.html` in a web browser.
+## Pages
 
-## Repository
+- `index.html`: services, approach, illustrative scenario, anonymous expertise, FAQs, inquiry draft, and sharing.
+- `heading-support.html`: machine support details and an illustrative review sequence.
+- `tooling-review.html`: tooling review details and an illustrative review sequence.
+- `data-analytics.html`: service details and a fictional dashboard with downtime, rejection, and output views.
+- `assets/site.css`: shared responsive styling.
+- `assets/share-card.png`: social link preview image; editable SVG source is included.
+- `capabilities.txt`: downloadable service overview.
 
-Website source is stored in the public `andmedina/heading-tooling-consulting` repository.
+## Behavior
 
-Preview: https://andmedina.github.io/heading-tooling-consulting/
+The inquiry form and its personal-data fields remain available. It only builds a local text download; it sends nothing to a server. The dashboard uses fixed fictional values and has no data connection. There is no database, analytics tracker, or submission endpoint. Fonts are loaded from Google Fonts. Copy-link uses the browser clipboard and offers a visible URL if unavailable.
 
-GitHub Pages publishes the root of the `main` branch. Updates pushed to `main` are deployed automatically.
+## Preview and publishing
 
-- `index.html`: complete website, including styles and scripts.
-- `.nojekyll`: disables Jekyll processing for GitHub Pages.
+Open `index.html` in a browser, or serve this folder with a local static web server. GitHub Pages publishes the repository root from `main`.
+
+Business branding remains subject to owner review. No personal team names, client testimonials, certifications, service-area claims, or achieved performance results are published. Examples are explicitly illustrative.
