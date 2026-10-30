@@ -9,8 +9,11 @@ Open `index.html` in a web browser.
 
 ## Repository
 
-Website source is stored in the private `andmedina/heading-tooling-consulting` repository.
-Hosting has not been configured.
+Website source is stored in the public `andmedina/heading-tooling-consulting` repository.
+
+Preview: https://andmedina.github.io/heading-tooling-consulting/
+
+GitHub Pages publishes the root of the `main` branch. Updates pushed to `main` are deployed automatically.
 
 - `index.html`: complete website, including styles and scripts.
-- `.nojekyll`: disables Jekyll processing if GitHub Pages is configured later.
+- `.nojekyll`: disables Jekyll processing for GitHub Pages.
