@@ -8,3 +8,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 .inquiry-preview{margin-top:20px;padding:22px;border:1px solid #99a68c;background:#f4f3eb}.inquiry-preview h3{font-size:22px;letter-spacing:-.5px;margin:0 0 16px}.inquiry-preview pre{font:14px/1.7 'DM Sans',Arial,sans-serif;white-space:pre-wrap;overflow-wrap:anywhere;margin:0;color:var(--ink)}
+
+.edit-inquiry{border:0;background:transparent;color:var(--ink);cursor:pointer;padding:0;margin-top:20px;font:600 14px 'DM Sans',Arial,sans-serif}.inquiry-preview pre{padding-bottom:4px}.inquiry-preview .text-link{display:inline-block}
