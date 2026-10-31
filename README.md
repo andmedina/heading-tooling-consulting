@@ -6,17 +6,16 @@ Live site: https://andmedina.github.io/heading-tooling-consulting/
 
 ## Pages
 
-- `index.html`: services, approach, illustrative scenario, anonymous expertise, FAQs, inquiry draft, and sharing.
+- `index.html`: services, approach, illustrative scenario, anonymous expertise, FAQs, on-page inquiry preview, and sharing.
 - `heading-support.html`: machine support details and an illustrative review sequence.
 - `tooling-review.html`: tooling review details and an illustrative review sequence.
 - `data-analytics.html`: service details and a fictional dashboard with downtime, rejection, and output views.
 - `assets/site.css`: shared responsive styling.
 - `assets/share-card.png`: social link preview image; editable SVG source is included.
-- `capabilities.txt`: downloadable service overview.
 
 ## Behavior
 
-The inquiry form and its personal-data fields remain available. It only builds a local text download; it sends nothing to a server. The dashboard uses fixed fictional values and has no data connection. There is no database, analytics tracker, or submission endpoint. Fonts are loaded from Google Fonts. Copy-link uses the browser clipboard and offers a visible URL if unavailable.
+The inquiry form and its personal-data fields remain available. It only displays an on-page preview; it sends nothing to a server and generates no files. The dashboard uses fixed fictional values and has no data connection. There is no database, analytics tracker, or submission endpoint. Fonts are loaded from Google Fonts. Copy-link uses the browser clipboard and offers a visible URL if unavailable.
 
 ## Preview and publishing
 
